@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Form</title>
+</head>
+<body>
+
+<form action="">
+    <label for="myTextbox">Enter text:</label><br>
+    <input type="text" id="myTextbox" name="myTextbox"><br>
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
